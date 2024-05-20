@@ -1,13 +1,134 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@font-face {
+  font-family: 'poppinsregular';
+  src: url('../src/poppins/poppins-regular-webfont.woff2') format('woff2'),
+       url('../src/poppins/poppins-regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+
+
+
+@font-face {
+  font-family: 'poppinsitalic';
+  src: url('../src/poppins/poppins-italic-webfont.woff2') format('woff2'),
+       url('../src/poppins/poppins-italic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
 }
+
+
+
+
+@font-face {
+  font-family: 'poppinsblack';
+  src: url('../src/poppins/poppins-black-webfont.woff2') format('woff2'),
+       url('../src/poppins/poppins-black-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+
+
+
+@font-face {
+  font-family: 'poppinsbold';
+  src: url('../src/poppins/poppins-bold-webfont.woff2') format('woff2'),
+       url('../src/poppins/poppins-bold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+.tweet-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin: 5rem;
+}
+
+.tweet {
+  width: fit-content;
+  min-width: 50%;
+  padding: 1rem;
+  position: relative;
+  color: white;
+  font-family: 'poppinsregular';
+  box-shadow: 2px 2px 10px #393D3A;
+  border-radius: 10px;
+}
+
+.delete {
+  position: absolute;
+  background-color: #0000;
+  border: none;
+  top: 0;
+  right: 0;
+  margin: 0.5rem;
+  cursor: pointer;
+
+}
+
+.tweet-form {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  gap: 1rem;
+  margin: 1rem;
+  margin-bottom: 2rem;
+}
+
+.like {
+  background-color: #0000;
+  color: white;
+  border: solid 0.5px;
+  border-radius: 50px;
+  cursor: pointer;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  margin: 1rem;
+}
+
+p, h3 {
+  margin: 1rem;
+}
+
+h4 {
+  color: white;
+  font-family: 'poppinsbold';
+  margin: 5rem;
+  text-align: center;
+  font-size: 25px;
+  text-shadow: #9D8099 2px 2px 5px;
+
+}
+
+.tweet-form {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+input {
+  border: solid 1px #9D8099;
+  border-radius: 50px;
+  padding: 0.5rem;
+  background-color: #0000;
+  width: 20%;
+  color: white;
+}
+
+.submit {
+  background-color: #9D8099;
+  width: 10%;
+  font-family: 'poppinsregular';
+  cursor: pointer;
+}
+
