@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/twitter-react/static/css/main.f855e6bc.css",
-    "main.js": "/twitter-react/static/js/main.1ec1deff.js",
+    "main.css": "/twitter-react/static/css/main.5549fdf5.css",
+    "main.js": "/twitter-react/static/js/main.2909ada5.js",
     "static/js/453.9a14e740.chunk.js": "/twitter-react/static/js/453.9a14e740.chunk.js",
-    "static/media/logo.svg": "/twitter-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/poppins-italic-webfont.woff": "/twitter-react/static/media/poppins-italic-webfont.98117afe5770017a79a9.woff",
+    "static/media/poppins-bold-webfont.woff": "/twitter-react/static/media/poppins-bold-webfont.ae39dfdd9ffe12932f5d.woff",
+    "static/media/poppins-regular-webfont.woff": "/twitter-react/static/media/poppins-regular-webfont.6441fbe3ef5d32bbaf47.woff",
+    "static/media/poppins-black-webfont.woff": "/twitter-react/static/media/poppins-black-webfont.4eaf4bd986edc6880c49.woff",
+    "static/media/poppins-italic-webfont.woff2": "/twitter-react/static/media/poppins-italic-webfont.97d6acf4033e3b5c2a0d.woff2",
+    "static/media/poppins-bold-webfont.woff2": "/twitter-react/static/media/poppins-bold-webfont.785298bd17bddc378f07.woff2",
+    "static/media/poppins-regular-webfont.woff2": "/twitter-react/static/media/poppins-regular-webfont.905e281f6ade6eff8908.woff2",
+    "static/media/poppins-black-webfont.woff2": "/twitter-react/static/media/poppins-black-webfont.a5ca19b945c212232990.woff2",
     "index.html": "/twitter-react/index.html",
-    "main.f855e6bc.css.map": "/twitter-react/static/css/main.f855e6bc.css.map",
-    "main.1ec1deff.js.map": "/twitter-react/static/js/main.1ec1deff.js.map",
+    "main.5549fdf5.css.map": "/twitter-react/static/css/main.5549fdf5.css.map",
+    "main.2909ada5.js.map": "/twitter-react/static/js/main.2909ada5.js.map",
     "453.9a14e740.chunk.js.map": "/twitter-react/static/js/453.9a14e740.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.1ec1deff.js"
+    "static/css/main.5549fdf5.css",
+    "static/js/main.2909ada5.js"
   ]
 }
