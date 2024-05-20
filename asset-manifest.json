@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/twitter-react/static/css/main.5549fdf5.css",
-    "main.js": "/twitter-react/static/js/main.2909ada5.js",
+    "main.js": "/twitter-react/static/js/main.f154e560.js",
     "static/js/453.9a14e740.chunk.js": "/twitter-react/static/js/453.9a14e740.chunk.js",
     "static/media/poppins-italic-webfont.woff": "/twitter-react/static/media/poppins-italic-webfont.98117afe5770017a79a9.woff",
     "static/media/poppins-bold-webfont.woff": "/twitter-react/static/media/poppins-bold-webfont.ae39dfdd9ffe12932f5d.woff",
@@ -13,11 +13,11 @@
     "static/media/poppins-black-webfont.woff2": "/twitter-react/static/media/poppins-black-webfont.a5ca19b945c212232990.woff2",
     "index.html": "/twitter-react/index.html",
     "main.5549fdf5.css.map": "/twitter-react/static/css/main.5549fdf5.css.map",
-    "main.2909ada5.js.map": "/twitter-react/static/js/main.2909ada5.js.map",
+    "main.f154e560.js.map": "/twitter-react/static/js/main.f154e560.js.map",
     "453.9a14e740.chunk.js.map": "/twitter-react/static/js/453.9a14e740.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5549fdf5.css",
-    "static/js/main.2909ada5.js"
+    "static/js/main.f154e560.js"
   ]
 }
